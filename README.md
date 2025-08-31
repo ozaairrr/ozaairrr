@@ -21,7 +21,3 @@ Hey there, I’m Ozair 👋<br>A BCA graduate with a flair for turning raw data 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ozaairrr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozaairrr&show_icons=true&theme=transparent)
