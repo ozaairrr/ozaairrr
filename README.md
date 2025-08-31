@@ -29,7 +29,6 @@ I build practical, production-grade projects—transforming raw data into action
 
 ---
 
----
 
 ## 🎓 Certifications
 
