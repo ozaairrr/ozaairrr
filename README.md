@@ -55,4 +55,6 @@ I build practical, production-grade projects—transforming raw data into action
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozaairrr&show_icons=true)
+
 > *Always learning, building, and sharing knowledge. Let’s connect and grow together!*
