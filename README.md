@@ -1,4 +1,4 @@
-# Hi, I'm Ozair 👋
+# Hi, I'm Ozair - Data Nerd 👋
 
 I’m a BCA graduate passionate about data analytics, data engineering, and business intelligence.  
 I build practical, production-grade projects—transforming raw data into actionable insights!
