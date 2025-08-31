@@ -7,15 +7,21 @@ I build practical, production-grade projects—transforming raw data into action
 
 ## 📂 Featured Projects
 
-- [Business-Insights-360](https://github.com/ozaairrr/Business-Insights-360)  
-  Enterprise-grade Power BI dashboard for holistic business analysis  
-  [▶️ Live Demo Video](https://www.youtube.com/watch?v=SFmGicFt5u0&feature=youtu.be)
+<a href="https://github.com/ozaairrr/Business-Insights-360" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="36" style="vertical-align:middle"/>  
+  Business Insights 360 - Enterprise Power BI Dashboard  
+</a>  
+▶️ [Live Demo Video](https://www.youtube.com/watch?v=SFmGicFt5u0&feature=youtu.be)
 
-- [SQL Data Warehouse Project](https://github.com/ozaairrr/sql-datawarehouse-project)  
-  Multi-layered warehouse using Medallion Architecture (Bronze/Silver/Gold) for CRM/ERP analytics
+<a href="https://github.com/ozaairrr/sql-datawarehouse-project" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="36" style="vertical-align:middle"/>  
+  SQL Data Warehouse Project - Multi-layer CRM/ERP warehouse  
+</a>
 
-- [Pizza Sales Dashboard (Excel/SQL)](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql)  
-  Interactive dashboard analyzing 48,000+ pizza orders via Excel & SQL
+<a href="https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/excel.png" alt="Excel" width="36" style="vertical-align:middle"/>  
+  Pizza Sales Dashboard - Excel & SQL interactive analysis  
+</a>
 
 ---
 
