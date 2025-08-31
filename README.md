@@ -5,4 +5,7 @@ I blend strong data analytics skills with practical data engineering techniques 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shaikh-mohammad-ozair-connect/) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozaairrr&show_icons=true&theme=transparent)
+
+
+
 Always learning, always coding—welcome to my corner of GitHub! 🚀  
