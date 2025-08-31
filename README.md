@@ -11,7 +11,7 @@ I build practical, production-grade projects—transforming raw data into action
 | --- | --- | --- | --- |
 | ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) | [Business Insights 360](https://github.com/ozaairrr/Business-Insights-360) | Enterprise Power BI dashboard for holistic business analysis | [▶️ Live Demo](https://www.youtube.com/watch?v=SFmGicFt5u0&feature=youtu.be) |
 | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | [SQL Data Warehouse Project](https://github.com/ozaairrr/sql-datawarehouse-project) | Multi-layer Medallion Architecture for CRM/ERP analytics |  |
-| ![Excel](https://img.icons8.com/color/48/000000/excel.png) | [Pizza Sales Dashboard](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql) | Interactive dashboard analyzing 48,000+ pizza orders |  |
+| ![Excel](https://www.pngwing.com/en/free-png-avhtk) | [Pizza Sales Dashboard](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql) | Interactive dashboard analyzing 48,000+ pizza orders |  |
 
 ---
 
