@@ -1,4 +1,4 @@
-# Hi, I'm Ozair - Data Nerd 👋
+# Hi, I'm Ozair - A Data Nerd 👋
 
 I’m a BCA graduate passionate about data analytics, data engineering, and business intelligence.  
 I build practical, production-grade projects—transforming raw data into actionable insights!
@@ -13,14 +13,6 @@ I build practical, production-grade projects—transforming raw data into action
 | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | [SQL Data Warehouse Project](https://github.com/ozaairrr/sql-datawarehouse-project) | Multi-layer Medallion Architecture for CRM/ERP analytics |  |
 | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square) | [Pizza Sales Dashboard](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql) | Interactive dashboard analyzing 48,000+ pizza orders |  |
 
-
----
-
-## 🎓 Certifications
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Certified-yellow?logo=powerbi&logoColor=black&style=for-the-badge)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Certified-blue?logo=apache-spark&logoColor=white&style=for-the-badge)
-
 ---
 
 ## 🚀 Skills
@@ -34,6 +26,15 @@ I build practical, production-grade projects—transforming raw data into action
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black&style=for-the-badge)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
+
+---
+
+---
+
+## 🎓 Certifications
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Certified-yellow?logo=powerbi&logoColor=black&style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Certified-blue?logo=apache-spark&logoColor=white&style=for-the-badge)
 
 ---
 
