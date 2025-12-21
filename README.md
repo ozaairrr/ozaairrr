@@ -29,11 +29,6 @@ I build practical, production-grade projects—transforming raw data into action
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
 
 ---
-## Repository Structure
-
-![Diagram](https://github.com/ozaairrr/ozaairrr/blob/main/Untitled%20Diagram.drawio.png)
-
----
 
 
 ## 🎓 Certifications
