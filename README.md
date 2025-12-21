@@ -11,7 +11,7 @@ I build practical, production-grade projects—transforming raw data into action
 | --- | --- | --- | --- |
 | ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) | [BI Analytics Platform](https://github.com/ozaairrr/Business-Insights-360) | Enterprise Power BI dashboard for holistic business analysis | [▶️ Live Demo](https://www.youtube.com/watch?v=SFmGicFt5u0&feature=youtu.be) |
 | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | [SQL Data Warehouse Project](https://github.com/ozaairrr/sql-datawarehouse-project) | Multi-layer Medallion Architecture for CRM/ERP analytics |  |
-| | <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/643b396af2b8f2f3a2e1c70425fd3a02/92a2d168-9942-44ab-b219-8d109246d30f/235ad50c.png" alt="Azure HR Analytics" width="32" height="32"> | [End-to-End Azure HR Analytics](https://github.com/ozaairrr/end-to-end-azure-hr-analytics) | ADF→SQL→Power BI pipeline predicting $124M attrition risk |  |
+| | ![Azure](https://img.shields.io/badge/Azure-Data%20Engineering-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square) | [End-to-End Azure HR Analytics](https://github.com/ozaairrr/end-to-end-azure-hr-analytics) | ADF→SQL→Power BI pipeline predicting $124M attrition risk |  |
 
 
 ---
