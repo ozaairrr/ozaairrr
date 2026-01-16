@@ -16,15 +16,7 @@ I build practical, production-grade projects—transforming raw data into action
 
 
 ---
-
-## 🚀 Skills
-
 ## 🚀 Skills & Tech Stack
-
-### **Cloud & Data Engineering**
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-8A2BE2?style=for-the-badge&logo=azure-pipelines&logoColor=white)
-
 ### **Languages & Databases**
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,6 +25,9 @@ I build practical, production-grade projects—transforming raw data into action
 ### **Visualization & Analytics**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### **Cloud & Data Engineering**
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-8A2BE2?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 
 ---
 
