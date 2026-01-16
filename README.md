@@ -1,7 +1,7 @@
 # Hi, I'm Ozair - A Data Nerd 👋
 
-I’m a BCA graduate passionate about data analytics, data engineering, and business intelligence.  
-I build practical, production-grade projects—transforming raw data into actionable insights!
+I’m a BCA graduate who enjoys solving real problems with data.
+My projects focus on clean data, strong analytics foundations, and production-ready workflows that turn raw information into decisions teams can trust.
 
 ---
 
