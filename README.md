@@ -19,32 +19,20 @@ I build practical, production-grade projects—transforming raw data into action
 
 ## 🚀 Skills
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=Matplotlib&logoColor=black&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F9DD16?logo=powerbi&logoColor=black&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black&style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
+## 🚀 Skills & Tech Stack
 
----
+### **Cloud & Data Engineering**
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-8A2BE2?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 
+### **Languages & Databases**
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🎓 Certifications
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Certified-yellow?logo=powerbi&logoColor=black&style=for-the-badge)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Certified-blue?logo=apache-spark&logoColor=white&style=for-the-badge)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shaikh-mohammad-ozair-connect/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ozaairrr)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@ozaairrr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mohammadozairshaikh@gmail.com)
+### **Visualization & Analytics**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
